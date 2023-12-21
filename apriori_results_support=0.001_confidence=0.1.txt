@@ -1,0 +1,907 @@
+频繁项集:
+长度为 1 的频繁项集:
+pork
+butter milk
+skin care
+frozen chicken
+white wine
+frozen meals
+frozen vegetables
+napkins
+house keeping products
+rice
+liqueur
+popcorn
+canned fish
+dental care
+berries
+dish cleaner
+sweet spreads
+turkey
+hair spray
+processed cheese
+meat
+butter
+soups
+salty snack
+whipped/sour cream
+sparkling wine
+potato products
+chicken
+specialty fat
+hamburger meat
+kitchen towels
+mustard
+curd cheese
+root vegetables
+sliced cheese
+dessert
+baby cosmetics
+spices
+rolls/buns
+jam
+chocolate
+shopping bags
+liver loaf
+candy
+beef
+frozen potato products
+specialty bar
+newspapers
+herbs
+artif. sweetener
+meat spreads
+soap
+specialty chocolate
+seasonal products
+Instant food products
+beverages
+dishes
+brandy
+female sanitary products
+toilet cleaner
+frankfurter
+specialty vegetables
+abrasive cleaner
+hard cheese
+organic sausage
+kitchen utensil
+specialty cheese
+snack products
+ham
+detergent
+softener
+cream
+vinegar
+waffles
+ketchup
+spread cheese
+semi-finished bread
+pasta
+flower soil/fertilizer
+fruit/vegetable juice
+citrus fruit
+red/blush wine
+cleaner
+flower (seeds)
+whisky
+ice cream
+pickled vegetables
+soft cheese
+tidbits
+roll products 
+long life bakery product
+honey
+bottled water
+light bulbs
+photo/film
+bags
+cake bar
+pudding powder
+decalcifier
+yogurt
+baking powder
+frozen dessert
+canned vegetables
+make up remover
+tea
+cling film/bags
+fish
+hygiene articles
+margarine
+mayonnaise
+chocolate marshmallow
+tropical fruit
+packaged fruit/vegetables
+bathroom cleaner
+sauces
+rubbing alcohol
+candles
+condensed milk
+cocoa drinks
+rum
+soda
+pot plants
+syrup
+grapes
+zwieback
+pastry
+chewing gum
+canned fruit
+pet care
+dog food
+liquor
+frozen fish
+onions
+salt
+cat food
+cereals
+other vegetables
+whole milk
+male cosmetics
+curd
+canned beer
+ready soups
+instant coffee
+frozen fruits
+sugar
+flour
+white bread
+UHT-milk
+cooking chocolate
+bottled beer
+cookware
+prosecco
+finished products
+liquor (appetizer)
+nuts/prunes
+domestic eggs
+sausage
+coffee
+oil
+brown bread
+cream cheese 
+salad dressing
+preservation products
+misc. beverages
+organic products
+nut snack
+pip fruit
+长度为 2 的频繁项集:
+soda, fruit/vegetable juice
+curd, yogurt
+berries, tropical fruit
+whole milk, pip fruit
+whole milk, bottled water
+root vegetables, misc. beverages
+beverages, rolls/buns
+whipped/sour cream, bottled beer
+whipped/sour cream, margarine
+other vegetables, pot plants
+root vegetables, pip fruit
+butter, tropical fruit
+tropical fruit, newspapers
+cream cheese , frankfurter
+other vegetables, brown bread
+salty snack, soda
+whole milk, root vegetables
+soda, yogurt
+onions, soda
+specialty bar, rolls/buns
+tropical fruit, frankfurter
+beef, brown bread
+whole milk, sugar
+citrus fruit, other vegetables
+tropical fruit, citrus fruit
+whipped/sour cream, bottled water
+herbs, yogurt
+curd, pork
+rolls/buns, hygiene articles
+newspapers, other vegetables
+bottled beer, soda
+coffee, citrus fruit
+cream cheese , root vegetables
+sliced cheese, sausage
+tropical fruit, yogurt
+rolls/buns, hard cheese
+bottled beer, hamburger meat
+oil, yogurt
+waffles, other vegetables
+coffee, pastry
+butter, brown bread
+frankfurter, fruit/vegetable juice
+pastry, soda
+rolls/buns, bottled water
+coffee, bottled water
+tropical fruit, white bread
+tropical fruit, UHT-milk
+margarine, citrus fruit
+rolls/buns, candy
+berries, soda
+cream cheese , citrus fruit
+other vegetables, pastry
+ham, rolls/buns
+waffles, rolls/buns
+bottled beer, sausage
+rolls/buns, margarine
+bottled beer, rolls/buns
+soda, hygiene articles
+other vegetables, yogurt
+packaged fruit/vegetables, rolls/buns
+whole milk, domestic eggs
+tropical fruit, cat food
+napkins, pastry
+rolls/buns, pork
+chocolate, other vegetables
+bottled water, UHT-milk
+white bread, bottled water
+beverages, soda
+beef, margarine
+candy, other vegetables
+waffles, whole milk
+brown bread, yogurt
+shopping bags, pip fruit
+rolls/buns, meat
+beef, soda
+rolls/buns, specialty chocolate
+onions, rolls/buns
+rolls/buns, yogurt
+bottled beer, other vegetables
+whole milk, chicken
+pip fruit, yogurt
+coffee, domestic eggs
+butter, pastry
+brown bread, soda
+coffee, shopping bags
+other vegetables, hamburger meat
+whole milk, white wine
+margarine, root vegetables
+frozen meals, yogurt
+white bread, brown bread
+yogurt, frozen vegetables
+whole milk, meat
+rolls/buns, fruit/vegetable juice
+tropical fruit, rolls/buns
+whipped/sour cream, white bread
+citrus fruit, pip fruit
+pip fruit, fruit/vegetable juice
+tropical fruit, specialty chocolate
+canned beer, shopping bags
+root vegetables, meat
+beverages, sausage
+whole milk, candy
+whipped/sour cream, root vegetables
+canned beer, sausage
+shopping bags, other vegetables
+salty snack, root vegetables
+whole milk, hygiene articles
+salty snack, sausage
+margarine, frankfurter
+root vegetables, hygiene articles
+bottled water, pip fruit
+canned beer, chicken
+tropical fruit, soda
+margarine, shopping bags
+chocolate, bottled beer
+tropical fruit, coffee
+bottled water, frankfurter
+sausage, frankfurter
+grapes, other vegetables
+ham, yogurt
+tropical fruit, long life bakery product
+detergent, whole milk
+chocolate, yogurt
+bottled beer, pork
+margarine, pork
+whole milk, dessert
+white bread, citrus fruit
+whipped/sour cream, onions
+whipped/sour cream, pip fruit
+coffee, rolls/buns
+bottled beer, root vegetables
+sausage, root vegetables
+beef, other vegetables
+canned beer, pip fruit
+specialty bar, other vegetables
+butter, other vegetables
+beef, canned beer
+grapes, root vegetables
+dessert, sausage
+margarine, bottled water
+soda, frozen vegetables
+margarine, pastry
+root vegetables, yogurt
+butter, margarine
+rolls/buns, frozen vegetables
+root vegetables, butter milk
+rolls/buns, processed cheese
+butter, rolls/buns
+pip fruit, soda
+bottled beer, frankfurter
+chicken, citrus fruit
+beef, shopping bags
+tropical fruit, fruit/vegetable juice
+canned beer, curd
+tropical fruit, flour
+chocolate, rolls/buns
+grapes, sausage
+white bread, root vegetables
+root vegetables, UHT-milk
+coffee, soda
+sliced cheese, root vegetables
+salty snack, canned beer
+detergent, rolls/buns
+bottled water, frozen vegetables
+chocolate, citrus fruit
+canned beer, pastry
+other vegetables, specialty chocolate
+citrus fruit, sausage
+domestic eggs, citrus fruit
+domestic eggs, frankfurter
+chicken, sausage
+whipped/sour cream, citrus fruit
+sausage, frozen vegetables
+tropical fruit, pastry
+chicken, root vegetables
+domestic eggs, newspapers
+sausage, pastry
+margarine, other vegetables
+butter, shopping bags
+citrus fruit, pork
+whipped/sour cream, rolls/buns
+curd, root vegetables
+specialty bar, soda
+other vegetables, fruit/vegetable juice
+red/blush wine, other vegetables
+oil, soda
+waffles, tropical fruit
+newspapers, yogurt
+pastry, pip fruit
+chewing gum, yogurt
+domestic eggs, root vegetables
+tropical fruit, brown bread
+pip fruit, hard cheese
+citrus fruit, soda
+whipped/sour cream, whole milk
+rolls/buns, dessert
+chicken, pip fruit
+onions, other vegetables
+whole milk, coffee
+chocolate, whole milk
+sausage, pork
+rolls/buns, frankfurter
+shopping bags, pork
+butter, citrus fruit
+whole milk, pickled vegetables
+frankfurter, soda
+napkins, yogurt
+root vegetables, pork
+curd, citrus fruit
+whipped/sour cream, sausage
+white bread, other vegetables
+whole milk, pasta
+other vegetables, UHT-milk
+butter, newspapers
+shopping bags, brown bread
+tropical fruit, dessert
+whole milk, beverages
+salty snack, yogurt
+whole milk, frozen meals
+domestic eggs, brown bread
+cream cheese , sausage
+sausage, brown bread
+domestic eggs, shopping bags
+misc. beverages, yogurt
+citrus fruit, napkins
+dessert, soda
+berries, root vegetables
+sliced cheese, soda
+newspapers, frankfurter
+white bread, soda
+chicken, pastry
+UHT-milk, soda
+root vegetables, soda
+tropical fruit, pip fruit
+butter, root vegetables
+margarine, yogurt
+curd, shopping bags
+tropical fruit, bottled water
+canned beer, brown bread
+canned beer, rolls/buns
+sausage, frozen meals
+coffee, canned beer
+soda, pork
+candy, yogurt
+sausage, long life bakery product
+whole milk, napkins
+sausage, pip fruit
+shopping bags, pastry
+root vegetables, hamburger meat
+whole milk, butter milk
+napkins, root vegetables
+margarine, fruit/vegetable juice
+candy, soda
+berries, rolls/buns
+chocolate, soda
+whole milk, misc. beverages
+canned beer, bottled water
+whole milk, long life bakery product
+tropical fruit, sausage
+domestic eggs, fruit/vegetable juice
+sausage, fruit/vegetable juice
+whole milk, frozen fish
+butter, canned beer
+other vegetables, pip fruit
+onions, root vegetables
+whole milk, grapes
+rolls/buns, curd
+ice cream, other vegetables
+beef, tropical fruit
+whole milk, pot plants
+shopping bags, yogurt
+brown bread, pip fruit
+curd, margarine
+napkins, other vegetables
+rolls/buns, newspapers
+brown bread, bottled water
+tropical fruit, butter milk
+whole milk, sliced cheese
+chocolate, bottled water
+bottled beer, citrus fruit
+frankfurter, frozen vegetables
+curd, other vegetables
+root vegetables, fruit/vegetable juice
+rolls/buns, ice cream
+citrus fruit, shopping bags
+other vegetables, meat
+specialty bar, whole milk
+citrus fruit, candy
+beef, whole milk
+canned beer, yogurt
+salty snack, other vegetables
+butter milk, yogurt
+whipped/sour cream, other vegetables
+citrus fruit, yogurt
+citrus fruit, specialty chocolate
+other vegetables, soda
+processed cheese, root vegetables
+shopping bags, frankfurter
+beef, bottled beer
+ham, other vegetables
+whole milk, oil
+whipped/sour cream, brown bread
+canned beer, fruit/vegetable juice
+sliced cheese, other vegetables
+root vegetables, frozen vegetables
+tropical fruit, chicken
+semi-finished bread, whole milk
+berries, yogurt
+newspapers, shopping bags
+coffee, sausage
+whole milk, other vegetables
+other vegetables, pork
+rolls/buns, soda
+sausage, soda
+canned beer, frankfurter
+whole milk, hard cheese
+chocolate, root vegetables
+whole milk, pastry
+dessert, shopping bags
+root vegetables, shopping bags
+root vegetables, brown bread
+whole milk, specialty chocolate
+bottled beer, pip fruit
+rolls/buns, chicken
+citrus fruit, bottled water
+domestic eggs, other vegetables
+salty snack, tropical fruit
+sausage, other vegetables
+citrus fruit, newspapers
+other vegetables, oil
+waffles, yogurt
+whole milk, brown bread
+rolls/buns, hamburger meat
+cream cheese , other vegetables
+bottled beer, pastry
+whipped/sour cream, shopping bags
+bottled beer, frozen vegetables
+tropical fruit, other vegetables
+canned beer, root vegetables
+whole milk, pork
+chocolate, sausage
+rolls/buns, domestic eggs
+other vegetables, butter milk
+chicken, other vegetables
+beef, bottled water
+dessert, root vegetables
+newspapers, bottled water
+whole milk, hamburger meat
+citrus fruit, brown bread
+whole milk, herbs
+rolls/buns, brown bread
+whole milk, newspapers
+yogurt, hard cheese
+frankfurter, pip fruit
+curd, pastry
+dessert, bottled water
+whole milk, sausage
+rolls/buns, other vegetables
+berries, other vegetables
+root vegetables, bottled water
+specialty chocolate, soda
+beef, rolls/buns
+sausage, misc. beverages
+canned beer, citrus fruit
+other vegetables, hygiene articles
+tropical fruit, whole milk
+ice cream, soda
+tropical fruit, bottled beer
+beverages, other vegetables
+canned beer, frozen vegetables
+citrus fruit, root vegetables
+whipped/sour cream, newspapers
+tropical fruit, napkins
+other vegetables, chewing gum
+hamburger meat, yogurt
+whole milk, yogurt
+white bread, domestic eggs
+yogurt, pork
+canned beer, newspapers
+frozen meals, soda
+margarine, pip fruit
+curd, brown bread
+rolls/buns, pastry
+berries, pastry
+beef, domestic eggs
+citrus fruit, frankfurter
+whole milk, fruit/vegetable juice
+whole milk, bottled beer
+bottled beer, chicken
+domestic eggs, yogurt
+sausage, yogurt
+coffee, pip fruit
+berries, bottled water
+whole milk, flour
+long life bakery product, yogurt
+whipped/sour cream, pastry
+bottled beer, brown bread
+whipped/sour cream, canned beer
+whole milk, processed cheese
+beverages, bottled water
+whole milk, onions
+bottled beer, domestic eggs
+chicken, yogurt
+bottled water, pork
+root vegetables, pastry
+soft cheese, other vegetables
+butter milk, soda
+tropical fruit, curd
+shopping bags, bottled water
+domestic eggs, bottled water
+root vegetables, hard cheese
+waffles, root vegetables
+beef, pastry
+citrus fruit, fruit/vegetable juice
+newspapers, pastry
+grapes, soda
+specialty bar, yogurt
+pastry, bottled water
+butter, yogurt
+canned beer, pork
+curd, frankfurter
+whipped/sour cream, beef
+soft cheese, rolls/buns
+curd, pip fruit
+pastry, frankfurter
+whipped/sour cream, frankfurter
+beef, curd
+white bread, sausage
+sausage, UHT-milk
+chocolate, tropical fruit
+rolls/buns, red/blush wine
+chicken, bottled water
+domestic eggs, pork
+hamburger meat, soda
+whole milk, rolls/buns
+bottled beer, newspapers
+butter, fruit/vegetable juice
+soft cheese, whole milk
+butter, bottled beer
+canned beer, domestic eggs
+pastry, fruit/vegetable juice
+citrus fruit, pastry
+citrus fruit, frozen vegetables
+white bread, canned beer
+semi-finished bread, other vegetables
+chicken, margarine
+beef, newspapers
+canned beer, other vegetables
+butter, bottled water
+rolls/buns, shopping bags
+cream cheese , rolls/buns
+butter, whole milk
+other vegetables, long life bakery product
+whipped/sour cream, chicken
+rolls/buns, citrus fruit
+margarine, sausage
+beef, frozen vegetables
+newspapers, root vegetables
+yogurt, fruit/vegetable juice
+bottled beer, yogurt
+bottled water, sugar
+rolls/buns, butter milk
+chicken, domestic eggs
+coffee, other vegetables
+chicken, shopping bags
+whole milk, cream cheese 
+beef, citrus fruit
+soft cheese, yogurt
+newspapers, sausage
+root vegetables, frankfurter
+butter, sausage
+whipped/sour cream, soda
+domestic eggs, pastry
+tropical fruit, hamburger meat
+rolls/buns, seasonal products
+soda, meat
+sausage, bottled water
+bottled beer, fruit/vegetable juice
+onions, yogurt
+butter, whipped/sour cream
+other vegetables, frozen meals
+other vegetables, frozen vegetables
+tropical fruit, cream cheese 
+margarine, soda
+pastry, pork
+other vegetables, bottled water
+frankfurter, yogurt
+napkins, soda
+ham, soda
+white bread, yogurt
+tropical fruit, onions
+UHT-milk, yogurt
+curd, soda
+beef, root vegetables
+dessert, yogurt
+shopping bags, butter milk
+rolls/buns, frozen meals
+cream cheese , yogurt
+bottled water, soda
+rolls/buns, misc. beverages
+chocolate, pip fruit
+chewing gum, soda
+whole milk, citrus fruit
+other vegetables, sugar
+berries, pip fruit
+rolls/buns, pip fruit
+butter, soda
+rolls/buns, cat food
+brown bread, pastry
+newspapers, soda
+domestic eggs, sausage
+cream cheese , shopping bags
+sausage, shopping bags
+whole milk, frozen vegetables
+other vegetables, hard cheese
+rolls/buns, napkins
+bottled beer, shopping bags
+pip fruit, frozen vegetables
+sugar, soda
+whipped/sour cream, curd
+whole milk, chewing gum
+beef, frankfurter
+other vegetables, misc. beverages
+pip fruit, pork
+canned beer, soda
+brown bread, pork
+whole milk, shopping bags
+whole milk, ice cream
+curd, sausage
+chocolate, canned beer
+beef, fruit/vegetable juice
+curd, dessert
+tropical fruit, frozen vegetables
+canned beer, margarine
+canned beer, bottled beer
+whole milk, white bread
+salty snack, rolls/buns
+whole milk, UHT-milk
+coffee, yogurt
+bottled water, yogurt
+other vegetables, frankfurter
+cream cheese , soda
+tropical fruit, margarine
+shopping bags, soda
+domestic eggs, soda
+tropical fruit, ham
+beef, yogurt
+whole milk, canned beer
+whole milk, curd
+tropical fruit, shopping bags
+curd, bottled water
+rolls/buns, root vegetables
+tropical fruit, domestic eggs
+pastry, hamburger meat
+whole milk, cat food
+salty snack, whole milk
+white bread, rolls/buns
+coffee, frankfurter
+rolls/buns, UHT-milk
+whipped/sour cream, tropical fruit
+berries, whole milk
+bottled water, fruit/vegetable juice
+bottled beer, bottled water
+brown bread, frankfurter
+detergent, yogurt
+chicken, soda
+whole milk, soda
+rolls/buns, long life bakery product
+bottled beer, curd
+root vegetables, other vegetables
+whole milk, ham
+tropical fruit, canned beer
+tropical fruit, pork
+dessert, other vegetables
+long life bakery product, soda
+whole milk, margarine
+whipped/sour cream, yogurt
+whole milk, frankfurter
+rolls/buns, sausage
+bottled beer, margarine
+onions, bottled water
+butter, beef
+tropical fruit, sugar
+newspapers, pip fruit
+rolls/buns, oil
+tropical fruit, root vegetables
+butter, pip fruit
+chicken, curd
+pastry, yogurt
+rolls/buns, grapes
+coffee, root vegetables
+butter, frankfurter
+长度为 3 的频繁项集:
+whole milk, other vegetables, yogurt
+whole milk, other vegetables, soda
+whole milk, rolls/buns, other vegetables
+whole milk, rolls/buns, sausage
+whole milk, rolls/buns, yogurt
+whole milk, sausage, yogurt
+rolls/buns, other vegetables, soda
+whole milk, rolls/buns, soda
+whole milk, sausage, soda
+
+关联规则:
+(pip fruit -> whole milk, confidence=0.13)
+(bottled water -> whole milk, confidence=0.12)
+(pot plants -> other vegetables, confidence=0.13)
+(root vegetables -> whole milk, confidence=0.11)
+(sugar -> whole milk, confidence=0.14)
+(herbs -> yogurt, confidence=0.11)
+(hard cheese -> rolls/buns, confidence=0.11)
+(candy -> rolls/buns, confidence=0.10)
+(packaged fruit/vegetables -> rolls/buns, confidence=0.14)
+(domestic eggs -> whole milk, confidence=0.14)
+(beverages -> soda, confidence=0.11)
+(waffles -> whole milk, confidence=0.14)
+(bottled beer -> other vegetables, confidence=0.10)
+(chicken -> whole milk, confidence=0.12)
+(hamburger meat -> other vegetables, confidence=0.10)
+(white wine -> whole milk, confidence=0.11)
+(meat -> whole milk, confidence=0.13)
+(fruit/vegetable juice -> rolls/buns, confidence=0.11)
+(candy -> whole milk, confidence=0.15)
+(shopping bags -> other vegetables, confidence=0.10)
+(hygiene articles -> whole milk, confidence=0.13)
+(grapes -> other vegetables, confidence=0.11)
+(detergent -> whole milk, confidence=0.16)
+(dessert -> whole milk, confidence=0.10)
+(specialty bar -> other vegetables, confidence=0.12)
+(processed cheese -> rolls/buns, confidence=0.14)
+(flour -> tropical fruit, confidence=0.11)
+(chocolate -> rolls/buns, confidence=0.12)
+(detergent -> rolls/buns, confidence=0.12)
+(specialty chocolate -> other vegetables, confidence=0.10)
+(red/blush wine -> other vegetables, confidence=0.11)
+(oil -> soda, confidence=0.12)
+(chewing gum -> yogurt, confidence=0.12)
+(whipped/sour cream -> whole milk, confidence=0.11)
+(coffee -> whole milk, confidence=0.12)
+(chocolate -> whole milk, confidence=0.12)
+(pickled vegetables -> whole milk, confidence=0.11)
+(white bread -> other vegetables, confidence=0.11)
+(pasta -> whole milk, confidence=0.13)
+(UHT-milk -> other vegetables, confidence=0.10)
+(beverages -> whole milk, confidence=0.12)
+(frozen meals -> whole milk, confidence=0.12)
+(napkins -> whole milk, confidence=0.11)
+(long life bakery product -> whole milk, confidence=0.13)
+(frozen fish -> whole milk, confidence=0.16)
+(pip fruit -> other vegetables, confidence=0.10)
+(grapes -> whole milk, confidence=0.13)
+(pot plants -> whole milk, confidence=0.13)
+(sliced cheese -> whole milk, confidence=0.10)
+(curd -> other vegetables, confidence=0.11)
+(ice cream -> rolls/buns, confidence=0.11)
+(meat -> other vegetables, confidence=0.13)
+(specialty bar -> whole milk, confidence=0.12)
+(beef -> whole milk, confidence=0.14)
+(salty snack -> other vegetables, confidence=0.12)
+(processed cheese -> root vegetables, confidence=0.11)
+(oil -> whole milk, confidence=0.13)
+(semi-finished bread -> whole milk, confidence=0.18)
+(other vegetables -> whole milk, confidence=0.12)
+(pork -> other vegetables, confidence=0.11)
+(hard cheese -> whole milk, confidence=0.13)
+(pastry -> whole milk, confidence=0.13)
+(chicken -> rolls/buns, confidence=0.10)
+(oil -> other vegetables, confidence=0.12)
+(brown bread -> whole milk, confidence=0.12)
+(pork -> whole milk, confidence=0.14)
+(hamburger meat -> whole milk, confidence=0.14)
+(herbs -> whole milk, confidence=0.11)
+(newspapers -> whole milk, confidence=0.14)
+(sausage -> whole milk, confidence=0.15)
+(berries -> other vegetables, confidence=0.12)
+(hygiene articles -> other vegetables, confidence=0.10)
+(tropical fruit -> whole milk, confidence=0.12)
+(beverages -> other vegetables, confidence=0.10)
+(yogurt -> whole milk, confidence=0.13)
+(fruit/vegetable juice -> whole milk, confidence=0.13)
+(bottled beer -> whole milk, confidence=0.16)
+(flour -> whole milk, confidence=0.14)
+(processed cheese -> whole milk, confidence=0.14)
+(onions -> whole milk, confidence=0.15)
+(soft cheese -> other vegetables, confidence=0.12)
+(soft cheese -> rolls/buns, confidence=0.10)
+(red/blush wine -> rolls/buns, confidence=0.13)
+(rolls/buns -> whole milk, confidence=0.13)
+(soft cheese -> whole milk, confidence=0.12)
+(semi-finished bread -> other vegetables, confidence=0.11)
+(butter -> whole milk, confidence=0.13)
+(cream cheese  -> whole milk, confidence=0.12)
+(soft cheese -> yogurt, confidence=0.13)
+(seasonal products -> rolls/buns, confidence=0.14)
+(frozen meals -> other vegetables, confidence=0.13)
+(frozen vegetables -> other vegetables, confidence=0.11)
+(citrus fruit -> whole milk, confidence=0.13)
+(pip fruit -> rolls/buns, confidence=0.10)
+(frozen vegetables -> whole milk, confidence=0.14)
+(hard cheese -> other vegetables, confidence=0.11)
+(chewing gum -> whole milk, confidence=0.14)
+(shopping bags -> whole milk, confidence=0.13)
+(ice cream -> whole milk, confidence=0.13)
+(white bread -> whole milk, confidence=0.13)
+(salty snack -> rolls/buns, confidence=0.10)
+(UHT-milk -> whole milk, confidence=0.12)
+(frankfurter -> other vegetables, confidence=0.14)
+(canned beer -> whole milk, confidence=0.13)
+(curd -> whole milk, confidence=0.12)
+(cat food -> whole milk, confidence=0.14)
+(salty snack -> whole milk, confidence=0.10)
+(berries -> whole milk, confidence=0.10)
+(detergent -> yogurt, confidence=0.12)
+(soda -> whole milk, confidence=0.12)
+(ham -> whole milk, confidence=0.16)
+(margarine -> whole milk, confidence=0.13)
+(frankfurter -> whole milk, confidence=0.14)
+(whole milk, yogurt -> other vegetables, confidence=0.10)
+(other vegetables, yogurt -> whole milk, confidence=0.14)
+(other vegetables, soda -> whole milk, confidence=0.12)
+(rolls/buns, other vegetables -> whole milk, confidence=0.11)
+(whole milk, sausage -> rolls/buns, confidence=0.13)
+(rolls/buns, sausage -> whole milk, confidence=0.21)
+(whole milk, yogurt -> rolls/buns, confidence=0.12)
+(rolls/buns, yogurt -> whole milk, confidence=0.17)
+(whole milk, sausage -> yogurt, confidence=0.16)
+(whole milk, yogurt -> sausage, confidence=0.13)
+(sausage, yogurt -> whole milk, confidence=0.26)
+(rolls/buns, other vegetables -> soda, confidence=0.11)
+(rolls/buns, soda -> other vegetables, confidence=0.14)
+(other vegetables, soda -> rolls/buns, confidence=0.12)
+(rolls/buns, soda -> whole milk, confidence=0.12)
+(whole milk, sausage -> soda, confidence=0.12)
+(sausage, soda -> whole milk, confidence=0.18)
+
+运行时间: 80.89497756958008 秒
+估计内存消耗: 48 字节

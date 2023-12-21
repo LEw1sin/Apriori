@@ -1,0 +1,191 @@
+频繁项集:
+长度为 1 的频繁项集:
+canned beer
+frozen vegetables
+white wine
+spices
+soft cheese
+cooking chocolate
+brown bread
+brandy
+flour
+cleaner
+semi-finished bread
+canned fruit
+pastry
+cocoa drinks
+skin care
+tidbits
+dessert
+potato products
+dental care
+newspapers
+prosecco
+light bulbs
+dishes
+turkey
+fruit/vegetable juice
+hygiene articles
+ham
+candles
+frozen potato products
+male cosmetics
+liquor (appetizer)
+organic products
+hard cheese
+pot plants
+grapes
+pork
+frankfurter
+Instant food products
+specialty vegetables
+curd
+dish cleaner
+butter milk
+hamburger meat
+salty snack
+bathroom cleaner
+butter
+berries
+white bread
+sugar
+long life bakery product
+flower (seeds)
+chewing gum
+cereals
+coffee
+cling film/bags
+chocolate
+pickled vegetables
+frozen fish
+cookware
+softener
+sausage
+herbs
+tea
+syrup
+preservation products
+meat
+tropical fruit
+sliced cheese
+bottled water
+beverages
+pudding powder
+toilet cleaner
+other vegetables
+bags
+domestic eggs
+nuts/prunes
+canned fish
+rubbing alcohol
+specialty fat
+frozen fruits
+frozen meals
+ready soups
+make up remover
+liqueur
+cat food
+oil
+curd cheese
+shopping bags
+soups
+baby cosmetics
+female sanitary products
+cream cheese 
+instant coffee
+decalcifier
+whisky
+frozen chicken
+organic sausage
+soap
+canned vegetables
+candy
+meat spreads
+spread cheese
+rum
+sauces
+chocolate marshmallow
+mustard
+dog food
+UHT-milk
+whipped/sour cream
+citrus fruit
+specialty chocolate
+bottled beer
+kitchen towels
+pasta
+snack products
+cake bar
+yogurt
+jam
+misc. beverages
+fish
+salt
+rolls/buns
+ice cream
+sweet spreads
+onions
+flower soil/fertilizer
+honey
+kitchen utensil
+pip fruit
+liquor
+house keeping products
+waffles
+cream
+margarine
+pet care
+red/blush wine
+napkins
+whole milk
+zwieback
+packaged fruit/vegetables
+finished products
+specialty bar
+mayonnaise
+beef
+abrasive cleaner
+vinegar
+chicken
+roll products 
+liver loaf
+popcorn
+frozen dessert
+processed cheese
+sparkling wine
+hair spray
+seasonal products
+condensed milk
+soda
+detergent
+photo/film
+root vegetables
+baking powder
+salad dressing
+artif. sweetener
+nut snack
+ketchup
+rice
+specialty cheese
+长度为 2 的频繁项集:
+soda, whole milk
+other vegetables, whole milk
+rolls/buns, whole milk
+tropical fruit, whole milk
+yogurt, whole milk
+other vegetables, rolls/buns
+soda, rolls/buns
+yogurt, other vegetables
+sausage, whole milk
+soda, other vegetables
+
+关联规则:
+(soda -> whole milk, confidence=0.12)
+(other vegetables -> whole milk, confidence=0.12)
+(rolls/buns -> whole milk, confidence=0.13)
+(tropical fruit -> whole milk, confidence=0.12)
+(yogurt -> whole milk, confidence=0.13)
+(sausage -> whole milk, confidence=0.15)
+
+运行时间: 39.96689438819885 秒
+估计内存消耗: 48 字节

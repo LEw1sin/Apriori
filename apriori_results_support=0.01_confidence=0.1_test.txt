@@ -1,0 +1,165 @@
+频繁项集:
+长度为 1 的频繁项集:
+frozen meals
+chewing gum
+roll products 
+liqueur
+cookware
+chocolate marshmallow
+sugar
+organic products
+rolls/buns
+meat
+shopping bags
+white bread
+softener
+cling film/bags
+female sanitary products
+hygiene articles
+baking powder
+frozen fish
+butter
+frozen chicken
+male cosmetics
+hamburger meat
+liquor (appetizer)
+photo/film
+kitchen towels
+flower (seeds)
+grapes
+potato products
+beverages
+red/blush wine
+white wine
+whole milk
+condensed milk
+ham
+specialty bar
+brown bread
+sparkling wine
+meat spreads
+ketchup
+instant coffee
+liver loaf
+soap
+sweet spreads
+rum
+oil
+salt
+flour
+dishes
+canned beer
+frozen dessert
+flower soil/fertilizer
+root vegetables
+curd cheese
+frozen vegetables
+whipped/sour cream
+artif. sweetener
+canned fish
+brandy
+chicken
+cream cheese 
+tidbits
+nuts/prunes
+organic sausage
+pork
+ice cream
+sauces
+specialty cheese
+spices
+salty snack
+waffles
+bags
+napkins
+bottled beer
+soups
+newspapers
+spread cheese
+finished products
+margarine
+rubbing alcohol
+long life bakery product
+Instant food products
+misc. beverages
+dessert
+baby cosmetics
+seasonal products
+sausage
+house keeping products
+skin care
+pip fruit
+dish cleaner
+canned vegetables
+candy
+cake bar
+pasta
+pickled vegetables
+mayonnaise
+specialty fat
+semi-finished bread
+jam
+cooking chocolate
+domestic eggs
+chocolate
+bathroom cleaner
+cat food
+turkey
+frozen potato products
+vinegar
+hair spray
+pastry
+light bulbs
+syrup
+other vegetables
+cream
+snack products
+kitchen utensil
+yogurt
+fruit/vegetable juice
+butter milk
+herbs
+fish
+berries
+cleaner
+soft cheese
+tropical fruit
+hard cheese
+pot plants
+packaged fruit/vegetables
+pet care
+dental care
+decalcifier
+processed cheese
+cocoa drinks
+candles
+nut snack
+beef
+popcorn
+canned fruit
+onions
+bottled water
+UHT-milk
+liquor
+frankfurter
+specialty chocolate
+whisky
+abrasive cleaner
+frozen fruits
+honey
+detergent
+coffee
+mustard
+prosecco
+citrus fruit
+dog food
+soda
+sliced cheese
+curd
+cereals
+zwieback
+
+关联规则:
+
+运行时间: 15.749013185501099 秒
+估计内存消耗: 48 字节

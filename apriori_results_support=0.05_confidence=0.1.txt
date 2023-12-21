@@ -1,0 +1,174 @@
+频繁项集:
+长度为 1 的频繁项集:
+flower (seeds)
+cat food
+pip fruit
+oil
+pork
+spread cheese
+whipped/sour cream
+decalcifier
+frozen vegetables
+dessert
+chocolate
+seasonal products
+chocolate marshmallow
+tropical fruit
+canned beer
+candles
+butter
+domestic eggs
+frankfurter
+onions
+soft cheese
+cleaner
+bags
+cereals
+specialty fat
+flour
+sweet spreads
+tidbits
+liquor
+red/blush wine
+instant coffee
+specialty cheese
+nuts/prunes
+canned vegetables
+potato products
+frozen dessert
+specialty bar
+cream cheese 
+packaged fruit/vegetables
+frozen fish
+bottled beer
+snack products
+roll products 
+meat spreads
+salad dressing
+organic sausage
+salty snack
+other vegetables
+liquor (appetizer)
+misc. beverages
+skin care
+fruit/vegetable juice
+sauces
+rolls/buns
+salt
+semi-finished bread
+kitchen utensil
+ready soups
+UHT-milk
+vinegar
+fish
+bottled water
+condensed milk
+cream
+cookware
+tea
+canned fruit
+honey
+abrasive cleaner
+preservation products
+hamburger meat
+sliced cheese
+citrus fruit
+ice cream
+sugar
+butter milk
+cocoa drinks
+rum
+mustard
+specialty vegetables
+female sanitary products
+frozen chicken
+frozen potato products
+root vegetables
+margarine
+syrup
+make up remover
+toilet cleaner
+flower soil/fertilizer
+frozen meals
+specialty chocolate
+curd
+spices
+male cosmetics
+jam
+soups
+hair spray
+softener
+bathroom cleaner
+brandy
+dog food
+ketchup
+grapes
+pot plants
+dental care
+artif. sweetener
+whole milk
+sparkling wine
+cake bar
+curd cheese
+baby cosmetics
+beef
+hard cheese
+zwieback
+kitchen towels
+house keeping products
+chewing gum
+processed cheese
+dish cleaner
+rice
+liver loaf
+Instant food products
+brown bread
+prosecco
+light bulbs
+white wine
+waffles
+rubbing alcohol
+pickled vegetables
+cling film/bags
+cooking chocolate
+finished products
+pastry
+pet care
+canned fish
+organic products
+shopping bags
+nut snack
+frozen fruits
+photo/film
+detergent
+newspapers
+beverages
+candy
+soap
+napkins
+coffee
+hygiene articles
+berries
+long life bakery product
+baking powder
+dishes
+soda
+yogurt
+meat
+pudding powder
+sausage
+white bread
+mayonnaise
+popcorn
+liqueur
+pasta
+chicken
+whisky
+turkey
+ham
+herbs
+
+关联规则:
+
+运行时间: 40.293885707855225 秒
+估计内存消耗: 48 字节

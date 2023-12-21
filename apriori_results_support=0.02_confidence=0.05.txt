@@ -1,0 +1,174 @@
+频繁项集:
+长度为 1 的频繁项集:
+rolls/buns
+canned beer
+margarine
+soda
+abrasive cleaner
+long life bakery product
+domestic eggs
+whipped/sour cream
+zwieback
+soap
+waffles
+baby cosmetics
+curd
+dog food
+cookware
+spices
+canned fish
+bathroom cleaner
+bottled water
+dental care
+mayonnaise
+organic sausage
+kitchen utensil
+chicken
+canned fruit
+tropical fruit
+bags
+toilet cleaner
+tidbits
+cereals
+citrus fruit
+cooking chocolate
+flower (seeds)
+soft cheese
+butter milk
+pickled vegetables
+soups
+liqueur
+brandy
+cleaner
+photo/film
+yogurt
+kitchen towels
+softener
+turkey
+detergent
+whisky
+meat
+nuts/prunes
+sauces
+tea
+red/blush wine
+packaged fruit/vegetables
+specialty chocolate
+salad dressing
+rubbing alcohol
+other vegetables
+frozen fish
+candles
+canned vegetables
+ready soups
+dish cleaner
+rum
+sausage
+liquor
+beef
+UHT-milk
+pastry
+finished products
+hard cheese
+roll products 
+sparkling wine
+dishes
+whole milk
+prosecco
+house keeping products
+pudding powder
+pot plants
+fruit/vegetable juice
+artif. sweetener
+chocolate
+bottled beer
+liquor (appetizer)
+specialty vegetables
+oil
+cat food
+semi-finished bread
+frozen vegetables
+brown bread
+newspapers
+fish
+napkins
+Instant food products
+jam
+condensed milk
+snack products
+cocoa drinks
+seasonal products
+coffee
+salt
+cream
+specialty cheese
+hamburger meat
+male cosmetics
+preservation products
+frozen fruits
+pork
+decalcifier
+processed cheese
+hair spray
+instant coffee
+frozen meals
+root vegetables
+ketchup
+pip fruit
+syrup
+organic products
+frankfurter
+hygiene articles
+liver loaf
+onions
+misc. beverages
+shopping bags
+specialty fat
+dessert
+specialty bar
+honey
+nut snack
+frozen dessert
+white bread
+berries
+grapes
+candy
+herbs
+mustard
+potato products
+beverages
+baking powder
+spread cheese
+ice cream
+white wine
+vinegar
+sugar
+rice
+cream cheese 
+popcorn
+flower soil/fertilizer
+salty snack
+chocolate marshmallow
+make up remover
+frozen chicken
+pasta
+ham
+female sanitary products
+cling film/bags
+pet care
+flour
+butter
+skin care
+light bulbs
+sliced cheese
+cake bar
+sweet spreads
+curd cheese
+meat spreads
+frozen potato products
+chewing gum
+
+关联规则:
+
+运行时间: 40.02315640449524 秒
+估计内存消耗: 48 字节
