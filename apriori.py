@@ -5,8 +5,9 @@ import pandas as pd
 import time
 import sys
 
+
 class HashTreeNode:
-    def __init__(self, depth=0, max_depth=3):
+    def __init__(self, depth=0, max_depth=7):
         self.depth = depth
         self.max_depth = max_depth
         self.children = {}
@@ -18,7 +19,7 @@ class HashTreeNode:
             self.items.add(itemset)
             return
 
-        key = hash(frozenset(itemset)) % 3
+        key = hash(frozenset(itemset)) % 3  # 可以考虑更复杂或适应性更强的哈希函数
         if key not in self.children:
             self.children[key] = HashTreeNode(self.depth + 1, self.max_depth)
 
@@ -38,7 +39,7 @@ class HashTreeNode:
 # 定义Apriori类
 class Apriori:
     def __init__(self, transactions, min_support, min_confidence):
-        self.transactions = transactions
+        self.transactions = [set(t) for t in transactions]  # 优化数据结构
         self.min_support = min_support
         self.min_confidence = min_confidence
         self.item_set = self.get_item_set()
@@ -64,21 +65,25 @@ class Apriori:
         self.generate_rules()
 
     def join_set(self, item_set, k):
-        return set([i.union(j) for i in item_set for j in item_set if len(i.union(j)) == k + 1])
+        return set([i.union(j) for i in item_set for j in item_set 
+                    if len(i.union(j)) == k + 1 and len(i.intersection(j)) == k - 1])
+
 
     def get_support(self, item_set):
+        item_count = defaultdict(int)
         hash_tree = HashTreeNode()
+
         for item in item_set:
             hash_tree.insert(item)
 
-        item_count = defaultdict(int)
         for transaction in self.transactions:
             matching_itemsets = set()
             hash_tree.get_itemsets(transaction, matching_itemsets)
             for item in matching_itemsets:
                 item_count[item] += 1
 
-        return set(item for item in item_count if item_count[item] >= self.min_support * len(self.transactions))
+        n_transactions = len(self.transactions)
+        return {item for item in item_count if item_count[item] / n_transactions >= self.min_support}
 
     def generate_rules(self):
         for key, value in self.frequent_itemsets.items():
@@ -116,13 +121,13 @@ def print_frequent_itemsets(frequent_itemsets):
 
 if __name__ == '__main__':
     # 加载数据
-    file_path = 'Groceries_dataset.csv'
-    groceries_data = pd.read_csv(file_path,nrows=10000)
+    file_path = '/root/project/Apriori/Groceries_dataset.csv'
+    groceries_data = pd.read_csv(file_path)
     # 按会员编号和日期分组，然后创建交易列表
     transactions = groceries_data.groupby(['Member_number', 'Date'])['itemDescription'].apply(list).tolist()
 
     # 创建Apriori实例
-    apriori_instance = Apriori(transactions, min_support=0.008, min_confidence=0.1)
+    apriori_instance = Apriori(transactions, min_support=0.01, min_confidence=0.1)
 
      # 测量运行时间
     start_time = time.time()
@@ -170,7 +175,7 @@ if __name__ == '__main__':
             antecedent = ', '.join(rule[0])
             consequent = ', '.join(rule[1])
             confidence = rule[2]
-            file.write(f"({antecedent} -> {consequent}, confidence={confidence:.2f})\n")
+            file.write(f"({antecedent} -> {consequent}, confidence={confidence})\n")
         file.write("\n")
 
         # 写入运行时间和空间消耗
